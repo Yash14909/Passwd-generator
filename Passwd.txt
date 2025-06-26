@@ -1,0 +1,43 @@
+🔐 Random Password Generator (Python)
+📄 Description
+This is a simple Python script that generates a random password based on the desired length provided by the user. It includes a mix of:
+
+Lowercase letters (a-z)
+
+Uppercase letters (A-Z)
+
+Numbers (0-9)
+
+Special characters (~!@#$%^&*()_+-)
+
+🛠️ Features
+Interactive CLI input for password length.
+
+Uses the random module for secure randomness.
+
+Supports a wide range of characters for stronger passwords.
+
+📦 Requirements
+No external dependencies. Uses only Python's built-in modules.
+
+▶️ Usage
+    python password_generator.py
+
+Sample Output:
+
+  enter length: 12
+  @3dGjW!9q#Xb
+
+📁 File Structure
+
+📦 password-generator/
+ └── 🔐 password_generator.py
+
+💡 Future Improvements
+
+1.Add GUI support with Tkinter or PyQt.
+
+2.Option to choose character types (e.g., only numbers or exclude symbols).
+
+3.Save generated passwords to a file.
+
