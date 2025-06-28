@@ -17,5 +17,5 @@ This is a simple Python script that generates a random password based on user-de
 
 ```bash
 $ python password_generator.py
-enter length: 12
-A#6jd@R9w!Zp
+enter length: 14
+A#6jd@R9w!Zp@$
